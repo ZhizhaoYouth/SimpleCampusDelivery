@@ -1,0 +1,17 @@
+com\DeliveryPlatform\Delivery\service\TaskService.class
+com\DeliveryPlatform\Delivery\controller\TaskController.class
+com\DeliveryPlatform\Delivery\controller\UserController.class
+com\DeliveryPlatform\Delivery\config\SpringDocConfig.class
+com\DeliveryPlatform\Delivery\entity\User.class
+com\DeliveryPlatform\Delivery\controller\PaymentController.class
+com\DeliveryPlatform\Delivery\dao\TaskMapper.class
+com\DeliveryPlatform\Delivery\entity\Task.class
+com\DeliveryPlatform\Delivery\DeliveryApplication.class
+com\DeliveryPlatform\Delivery\dao\PaymentMapper.class
+com\DeliveryPlatform\Delivery\entity\Payment.class
+com\DeliveryPlatform\Delivery\dao\UserMapper.class
+com\DeliveryPlatform\Delivery\service\impl\TaskServiceImpl.class
+com\DeliveryPlatform\Delivery\service\PaymentService.class
+com\DeliveryPlatform\Delivery\service\impl\PaymentServiceImpl.class
+com\DeliveryPlatform\Delivery\service\UserService.class
+com\DeliveryPlatform\Delivery\service\impl\UserServiceImpl.class
